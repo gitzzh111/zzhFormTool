@@ -13,7 +13,7 @@
 			var options = {
 				version: "1.0.0",
 				author: "不请自来1991",
-				company: "汉艺国际",
+				company: "xxx",
 				formData: null,	// 表单的数据可以直接传过来，如果传过来的话，就可以不不用发请求了!	
 				callback: null, // 回调的函数
 				ishasTextarea: false, // 是否有文本域字段，默认为false
